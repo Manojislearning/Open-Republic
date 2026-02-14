@@ -52,7 +52,3 @@ Participation is based on contribution, not loyalty.
 
 
 
----
-
-## Repository Structure
-
